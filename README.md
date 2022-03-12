@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
-<h3 align="center">A student of Multimedia Design, passionate about the world of programming</h3>
+<h3 align="center">A student of Multimedia Design, passionate about the world of programming and design</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
