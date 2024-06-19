@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1>Hi 👋, I'm Ronald Santamaria🙋‍♂️</h1>
+<h3>A student of Multimedia Design, passionate about the frontend development</h3>
 
 ###
 
