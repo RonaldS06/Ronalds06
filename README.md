@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronald Santamaria🙋‍♂️</h1>
-<h3 align="center">A student of Multimedia Design, a passionate frontend developer</h3>
+<h3 align="center">A student of Multimedia Design, passionate about the frontend development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
