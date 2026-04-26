@@ -9,7 +9,3 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWszb25kdHJxMWEyMmR4cG8yejg4eDViNW8xZm5pNzVvNWlnMHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
-
-###
